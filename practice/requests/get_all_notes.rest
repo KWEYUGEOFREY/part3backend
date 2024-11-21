@@ -1,0 +1,7 @@
+ POST http://localhost:3001/api/notes
+ Content-Type: application/json
+
+ {
+    "content": " REST Client is the another important testing tool of for backend developement",
+    "important": true
+}
